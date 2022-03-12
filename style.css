@@ -26,9 +26,23 @@ header {
   font-family: sans-serif;
 }
 
+nav {
+background: rgb(235, 240, 236);
+  color: #fff;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
 footer {
   background: #000;
   color: #fff;
   padding: 25px;
+  font-family: sans-serif;
+}
+
+footer li {
+  background: rgb(233, 227, 227);
+  color: #fff;
+  padding: 5px;
   font-family: sans-serif;
 }
