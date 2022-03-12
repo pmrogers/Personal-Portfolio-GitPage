@@ -4,3 +4,31 @@ body {
   padding: 25px;
   font-family: sans-serif;
 }
+
+h1, h2, h3 {
+  background: #000;
+  color: #fff;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+p {
+  background: #000;
+  color: #fff;
+  padding: 5px;
+  font-family: sans-serif;
+}
+
+header {
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+footer {
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
